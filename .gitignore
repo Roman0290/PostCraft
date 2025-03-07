@@ -1,0 +1,16 @@
+# Backend
+backend/vendor/
+backend/.env
+backend/database/database.sqlite
+backend/storage/*.key
+backend/public/storage
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
